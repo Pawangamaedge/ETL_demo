@@ -1,0 +1,21 @@
+customer_id,first_name,last_name,email,age,signup_date,email_domain,email_name,full_name
+1,John,Doe,john.doe@example.com,28,2020-06-15,example.com,john.doe,John Doe
+2,Jane,Smith,jane.smith@example.com,34,2021-01-22,example.com,jane.smith,Jane Smith
+3,Mary,Johnson,mary.johnson@example.com,45,2022-03-18,example.com,mary.johnson,Mary Johnson
+4,James,White,james.white@example.com,52,2019-11-12,example.com,james.white,James White
+5,Emily,Brown,emily.brown@example.com,22,2023-02-03,example.com,emily.brown,Emily Brown
+6,Michael,Clark,michael.clark@example.com,30,2022-07-29,example.com,michael.clark,Michael Clark
+7,Susan,Davis,susan.davis@example.com,37,2021-09-12,example.com,susan.davis,Susan Davis
+8,David,Martinez,david.martinez@example.com,41,2020-05-10,example.com,david.martinez,David Martinez
+9,Linda,Garcia,linda.garcia@example.com,29,2021-11-21,example.com,linda.garcia,Linda Garcia
+10,Robert,Lopez,robert.lopez@example.com,39,2019-08-30,example.com,robert.lopez,Robert Lopez
+11,Alice,Adams,alice.adams@example.com,25,2020-02-15,example.com,alice.adams,Alice Adams
+12,Bob,Baker,bob.baker@example.com,33,2021-08-06,example.com,bob.baker,Bob Baker
+13,Charlie,Chapman,charlie.chapman@example.com,40,2022-09-25,example.com,charlie.chapman,Charlie Chapman
+14,Diana,Edwards,diana.edwards@example.com,55,2021-10-19,example.com,diana.edwards,Diana Edwards
+15,Eve,Foster,eve.foster@example.com,26,2023-01-11,example.com,eve.foster,Eve Foster
+16,Frank,Gonzalez,frank.gonzalez@example.com,31,2020-12-02,example.com,frank.gonzalez,Frank Gonzalez
+17,Grace,Harris,grace.harris@example.com,43,2021-07-03,example.com,grace.harris,Grace Harris
+18,Hannah,Ingram,hannah.ingram@example.com,36,2022-05-19,example.com,hannah.ingram,Hannah Ingram
+19,Irene,Jackson,irene.jackson@example.com,27,2023-03-15,example.com,irene.jackson,Irene Jackson
+20,Jack,King,jack.king@example.com,50,2021-12-14,example.com,jack.king,Jack King
